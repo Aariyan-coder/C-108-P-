@@ -1,0 +1,50 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+h1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h4
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.column 
+{ 
+    display: inline; 
+    padding: 10px; 
+}
+
+img 
+{ 
+    width: 37%; 
+    border-radius: 4px; 
+    padding: 10px; 
+    box-shadow: 0 10px 10px 0 rgba(2, 2, 2, 0.2); 
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
